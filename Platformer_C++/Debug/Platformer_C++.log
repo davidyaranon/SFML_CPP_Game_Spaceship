@@ -1,0 +1,8 @@
+﻿  Game.cpp
+C:\Users\neonf\Documents\Comp_Sci\Platformer_C++\Platformer_C++\Game.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\neonf\Documents\Comp_Sci\Platformer_C++\Platformer_C++\Game.cpp(65,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\neonf\Documents\Comp_Sci\Platformer_C++\Platformer_C++\Game.cpp(69,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\neonf\Documents\Comp_Sci\Platformer_C++\Platformer_C++\Game.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\neonf\Documents\Comp_Sci\Platformer_C++\Platformer_C++\Game.cpp(95,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\neonf\Documents\Comp_Sci\Platformer_C++\Platformer_C++\Game.cpp(180,22): warning C4018: '<': signed/unsigned mismatch
+  Platformer_C++.vcxproj -> C:\Users\neonf\Documents\Comp_Sci\Platformer_C++\Debug\Platformer_C++.exe
